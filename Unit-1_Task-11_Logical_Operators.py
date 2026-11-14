@@ -1,0 +1,5 @@
+num1 = int(input("Enter first number"))
+num2 = int(input("Enter second number"))
+print(f"({num1} > 5) and ({num2} >15) = {(num1 > 5) and (num2 > 15)}")
+print(f"({num1} > 50) or ({num2} > 15 = {(num1 > 50) or (num2 > 15)})")
+print(f"not ({num2} > 10) = {not (num2 > 10)}")
